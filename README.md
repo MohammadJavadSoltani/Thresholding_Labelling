@@ -1,5 +1,5 @@
-# Thresholding_Labelling
-Thresholding and Labelling to Count the number of ships in the image
+# Threshold & Labelling
+Threshold and Labelling For instance, Counting the number of ships in this part.
 
 hese is some parts of it:
 ![index](https://user-images.githubusercontent.com/96078633/162671294-662895d5-4d0f-4311-957e-763fd4fbcd87.png)
